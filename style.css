@@ -13,7 +13,6 @@
 
 .logo {
     font-size: 35px;
-
     color: #4a47ff;
 }
 
@@ -25,7 +24,6 @@
     border-radius: 6px;
     text-decoration: none;
     font-weight: bold;
-
 }
 
 .nav-links .btn:hover {
@@ -109,9 +107,9 @@ body {
 }
 
 .action-btn:hover{
- background-color:  #b5cc34;
-
+    background-color:  #b5cc34;
 }
+
 
 .action b{
 
@@ -121,7 +119,7 @@ body {
 
 .action p{
 
-font-size: 40px;
+    font-size: 40px;
 
 }
 
@@ -230,8 +228,8 @@ font-size: 40px;
 
 .review-title{
 
-font-size: 30px;
-font-weight: bold;
+  font-size: 30px;
+  font-weight: bold;
 
 }
 
@@ -242,7 +240,7 @@ font-weight: bold;
 
 
 .focus{
- background-color: #FFFFFF;
+  background-color: #FFFFFF;
   border-radius: 20px;
   padding: 80px 50px;
   max-width: 900px;
@@ -256,13 +254,6 @@ font-weight: bold;
 
 
 
-
-{
-
-background-color: aliceblue;
-text-align: center;
-padding: 50px;
-}
 
 
 
@@ -336,23 +327,23 @@ padding: 50px;
 }
 
 .contact-form button:hover{
- background-color:  #b5cc34;
+  background-color:  #b5cc34;
 
 }
 
 
 footer{
-background-color: #FFFFFF;
-align-items: center;
-text-align: center;
+    background-color: #FFFFFF;
+    align-items: center;
+    text-align: center;
 
 }
 
 
-.footer-list{
-display: flex;
-text-align: center;
-}
+    .footer-list{
+    display: flex;
+    text-align: center;
+    }
 
 
 
@@ -394,5 +385,10 @@ footer li{
 
 footer li a {
     text-decoration: none;
-    color: #777; 
+    color: #777;
 }
+
+
+
+
+
