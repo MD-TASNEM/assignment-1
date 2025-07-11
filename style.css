@@ -3,12 +3,10 @@
     padding: 0;
 }
 
-
 .navbar {
     display: flex;
     justify-content: space-between;
     padding: 40px 50px;
-
 }
 
 .logo {
@@ -30,9 +28,6 @@
   background-color: #b5cc34;
 }
 
-
-
-
 body {
   margin: 0;
   padding: 0;
@@ -41,24 +36,16 @@ body {
   color: #1a1a1a;
 }
 
-
-
-
 /* Banner Section */
-
-
 .banner {
     text-align: center;
     padding-bottom: 150px;
 }
 
 .banner h1 {
-
-
     font-size: 50px;
     color: #1a1a1a;
     margin-bottom: 30px;
-
 }
 
 .cta-btn {
@@ -69,7 +56,6 @@ body {
     border-radius: 6px;
     font-size: 16px;
     cursor: pointer;
-
 }
 
 .cta-btn:hover {
@@ -82,8 +68,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
-
-
 }
 
 
@@ -91,9 +75,7 @@ body {
     display: flex;
     padding: 100px;
     justify-content: space-between;
-
 }
-
 
 .action-btn{
 
@@ -110,27 +92,17 @@ body {
     background-color:  #b5cc34;
 }
 
-
 .action b{
 
     font-size: 50px;
 }
 
-
 .action p{
 
     font-size: 40px;
-
 }
 
-
-
-
-
-
 /* Stats Section */
-
-
 .stats-section {
   background-color: #e5e8ff;
   border-radius: 20px;
@@ -169,25 +141,12 @@ body {
   color: #5c5c5c;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .reviewtop{
     margin-top: 40px;
     font-size: 43px;
     color: #222;
     text-align: center;
-
 }
-
 
 .review-container {
   display: flex;
@@ -196,9 +155,6 @@ body {
   padding: 40px;
 
 }
-
-
-
 
 .review-card {
   background-color: white;
@@ -209,34 +165,21 @@ body {
   text-align: left;
 }
 
-
 .review-text {
   font-size: 14px;
   color: #555;
   margin-bottom: 15px;
 }
 
-
-
 .reviewer-info {
   font-size: 12px;
   color: #777;
 }
 
-
-
-
 .review-title{
-
   font-size: 30px;
   font-weight: bold;
-
 }
-
-
-
-
-
 
 
 .focus{
@@ -246,28 +189,11 @@ body {
   max-width: 900px;
   margin: 80px auto;
   text-align: center;
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .contact-section {
   padding: 80px 20px;
 }
-
 
 .contact-container {
   display: flex;
@@ -328,15 +254,13 @@ body {
 
 .contact-form button:hover{
   background-color:  #b5cc34;
-
 }
-
 
 footer{
     background-color: #FFFFFF;
     align-items: center;
     text-align: center;
-
+    padding-bottom: 100px;
 }
 
 
@@ -345,14 +269,10 @@ footer{
     text-align: center;
     }
 
-
-
 footer ul{
 
     display: flex;
     justify-content: center;
-
-
 }
 
 
@@ -360,26 +280,18 @@ footer li{
     list-style: none;
     margin: 10px;
     color: #777;
-
 }
-
-
 
 .f-logo{
     font-size: 90px;
     color: #4a47ff;
     padding: 30px;
-
 }
-
-
-
 
 
 .description{
     font-size: medium;
     color: #777;
-
 }
 
 
@@ -387,8 +299,3 @@ footer li a {
     text-decoration: none;
     color: #777;
 }
-
-
-
-
-
